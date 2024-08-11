@@ -1,0 +1,17 @@
+body{
+    background-image: url("images/loginbackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+form{
+    margin-top: 30%;
+    margin-left:30%;
+}
+#login{
+   
+    padding:40px 40px;
+    -webkit-box-shadow: -4px 8px 38px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -4px 8px 38px 0px rgba(0,0,0,0.75);
+    box-shadow: -4px 8px 38px 0px rgba(0,0,0,0.75);
+}
